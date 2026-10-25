@@ -1,0 +1,29 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAssert_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2026_002E2_003Fresharper_002Dhost_003FSourcesCache_003F182ec85d25b779c7118bca2890ca95ae8dd32868c52272faee4a3a304f624b_003FAssert_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ARestRequestExtensions_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2026_002E2_003Fresharper_002Dhost_003FSourcesCache_003F8d8f67f4668cc75c6e985415f97222e6d21e170468d85b628bfabda12419bb_003FRestRequestExtensions_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=054e8289_002D92d6_002D439d_002Dab40_002D012fcfa0ee0c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetUser_Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E4311ECA-3799-4971-94FB-5B40253F5096::net10.0::Lesson_API_29_30.API.UpdateTestApi_PUT.UpdatePut&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5f0fe1cd_002De85b_002D4df6_002D95f8_002D5e92d1e53292/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UserTestApi #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E4311ECA-3799-4971-94FB-5B40253F5096::net10.0::Lesson_API_29_30.API.UserTestApi&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=96015253_002Dcc86_002D4ab0_002Da25f_002D2c0e460f9ed6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UserTestApi" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E4311ECA-3799-4971-94FB-5B40253F5096::net10.0::Lesson_API_29_30.API.UserTestApi&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ae521391_002Dc945_002D46f7_002D8493_002D54d30fabe532/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UserTestApi #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E4311ECA-3799-4971-94FB-5B40253F5096::net10.0::Lesson_API_29_30.API.UserTestApi&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e3e3180c_002Dd9df_002D446e_002D8624_002D5209b849de29/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UpdatePut" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E4311ECA-3799-4971-94FB-5B40253F5096::net10.0::Lesson_API_29_30.API.UpdateTestApi_PUT.UpdatePut&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E4311ECA-3799-4971-94FB-5B40253F5096::net10.0::Lesson_API_29_30.API.UserDeleteTest_DELETE.DeleteUser&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
